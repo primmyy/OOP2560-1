@@ -56,7 +56,7 @@ namespace CSharpBasic
             textBox2.Text = sizeof(float).ToString();
             textBox3.Text = float.MinValue.ToString();
             textBox4.Text = float.MaxValue.ToString();
-
+            //ddjfd?
         }
     }
 }
